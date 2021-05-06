@@ -16,3 +16,5 @@ Execution:
 For whole bangalore: -> python cowin_vaccine_tracker.py
 
      
+==============================================================
+cowin_vaccine_tracker_mail.py <-- this can be used to send mail notification if run in cronjob
